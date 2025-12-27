@@ -1,2 +1,2 @@
 # public
-公開ページ
+[こちら](http://kyano30.github.io/public)から参照しましょう。
