@@ -1,9 +1,2 @@
-# TEC-BA420T
 
-最新のリリースはこちら：
-
-{% for file in site.static_files %}
-  {% if file.path contains 'TEC-BA420T/' %}
-- [{{ file.name }}]({{ file.path }})
-  {% endif %}
-{% endfor %}
+[TEC-BA420T](http://kyano30.github.io/TEC-BA420T)
