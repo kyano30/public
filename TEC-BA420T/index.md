@@ -2,8 +2,8 @@
   
 | Asset Name | SHA256 Checksum | Size |
 | :---       | :---            | :--- |
-| [PrintSetup-v1.0.12.exe](./PrintSetup-v1.0.12.exe) | "39b6c796a9286c6a3025e6b610d5cf28cfb014dff7b8d8e0aa6894b8b746fd3c" | 45M |
-| [TEC-BA420T-v1.0.12.zip](./TEC-BA420T-v1.0.12.zip) | "5e3588760f2430c831b2b1003a2fead74956ea51c58533b0a0cba0af4f664cec" | 45M |
+| [PrintSetup-v1.1.0.exe](./PrintSetup-v1.1.0.exe) | "6b896b13b6601523842855e2887e2438bc9256fa50c9313380ab76313894fb86" | 45M |
+| [TEC-BA420T-v1.1.0.zip](./TEC-BA420T-v1.1.0.zip) | "138d63c3056444610d8a6b42e5f1fd809e2f38032492ac29685e94a7793ed696" | 45M |
   
   
 [戻る](..)  
